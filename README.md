@@ -1,2 +1,3 @@
-Frase teste 1 2 
-Frase teste 2 
+TESTE 1
+TESTE 2
+TESTE 3
